@@ -97,7 +97,7 @@ F8 G2(3人建築中)になったら、新規農民を木こりにする。
 騎兵学校はG3F2の5人で建てると04:00で時代IIへ移行する。  
 当然資源は減るものの、結局騎兵学校を常に稼働させられるなら問題ない。  
 早めにハラスしに行く場合や、騎士の数がモノをいうフランスミラー等では効果的かも。  
-参考:https://youtu.be/AuqaUoIRAVE
+参考:[Age of Empires 4 - How To Win The French Mirror](https://youtu.be/AuqaUoIRAVE)
 
 ### 時代II(通称:領主)
 04:30前後に領主、Pop21、F13W2G5になっていれば成功。  
