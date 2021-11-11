@@ -18,10 +18,10 @@ Pop - 人口
 時代IV - 帝王
 
 ## 一般
-文明共通の基本的な内容。
+文明共通の基本的な内容。  
 [操作ガイド](/operate.md)
 ## オーダー
 各文明ごとの内政手順等。
 ### フランス
-[French_Knight](/french_knight.md)
+[French_Knight](/french_knight.md)  
 最も初心者向け。RTSで勝つ楽しみをシンプルに味わいたい人向け。
