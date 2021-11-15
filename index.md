@@ -6,6 +6,7 @@ Age of Empires IVを始める人向けガイド。
 [操作ガイド](/operate.md) 必須テクニック。まずはこれを使いこなそう。
 ## オーダー
 各文明ごとの内政手順等。
+基本陸Map前提です。
 ### フランス
 [French_Knight](/french_knight.md) 最も初心者向け。RTSで勝つ楽しみをシンプルに味わいたい人向け。
 
